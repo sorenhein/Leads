@@ -1,0 +1,203 @@
+# David Bird and Taf Anthias, "Winning Notrump Leads"
+# 1NT: 15-17, 5cM possible
+
+#############
+# CHAPTER 1 #
+#############
+
+# South 1NT, North 3NT
+
+# Hand 1.1, page 8
+QJT3.K972.QJT3.5
+
+# Same against 12-14 NT
+# Same if no Stayman with 4-3-3-3
+
+# Hand 1.2, page 9
+52.AJT7.QJ94.J92
+
+# Hand 1.3, page 10
+J86.95.KQ72.KJ72
+
+# Hand 1.4, page 11
+AQ7.AJ3.T852.T96
+
+# Hand 1.5, page 12
+Q965.T4.K82.QJT2
+
+# Hand 1.6, page 13
+QJT4.83.AT853.J6
+
+# Hand 1.7, page 13
+AT853.83.QJT4.J6
+
+# Hand 1.8, page 14
+K4.Q863.K8.J9742
+
+# Hand 1.9, page 14
+43.54.9654.KQ832
+
+# Hand 1.10, page 15
+Q6.K5.T873.JT432
+
+# Same if East is a passed hand
+
+# Hand 1.11, page 16
+A7.85.KJ963.AT72
+
+# Hand 1.12, page 16
+KT5.A5.T86532.84
+
+# Hand 1Q.1, page 17
+A7.J8763.QJ54.93
+
+# Hand 1Q.2, page 17
+J64.QJ.AT82.K973
+
+# Hand 1Q.3, page 17
+QJT7.8642.KQJ7.5
+
+# Hand 1Q.4, page 17
+QJ85.63.K54.QT62
+
+# Hand 1Q.5, page 17
+98.6.KQ762.KJ853
+
+# Hand 1Q.6, page 17
+T7.QT9.J964.QJT4
+
+# Hand 1Q.7, page 17
+Q8763.7.J75.QJ94
+
+# Hand 1Q.8, page 17
+A8.KQ82.KQ82.743
+
+# Hand 1Q.9, page 17
+64.KJ84.JT7.T765
+
+# Hand 1Q.10, page 17
+92.853.A962.K962
+
+# Hand 1Q.11, page 17
+96.J7652.K2.QJT2
+
+# Hand 1Q.12, page 17
+Q865.QJ3.KT852.9
+
+
+#############
+# CHAPTER 2 #
+#############
+
+# South 1NT, North 3NT
+
+# Hand 2.1, page 21
+KT863.K2.A83.973
+
+# Hand 2.2, page 22
+85.KJ962.A4.KJ72
+
+# Hand 2.3, page 22
+KJ72.T94.QJ3.742
+
+# Hand 2.4, page 23
+T2.KQJ8.AT6432.8
+
+# Hand 2.5, page 24
+T.QJ92.A9654.653
+
+# Hand 2.6, page 25
+AQJ8.96.J9764.A2
+
+# Hand 2.7, page 26
+T85.QT943.AKJ3.6
+
+# Hand 2.8, page 27
+T3.K852.98.QT762
+
+# Hand 2.9, page 27
+J9862.KQ54.2.642
+
+# Hand 2.10, page 28
+Q753.K83.9764.T3
+
+# Hand 2.11, page 29
+AJ87.QJ7.T75.QT9
+
+# Hand 2.12, page 29
+T4.T74.QJ75.AT83
+
+# Hand 2.13, page 30
+983.9862.AT8.AJ4
+
+# Hand 2.14, page 30
+AK3.862.K96532.8
+
+# Hand 2.15, page 31
+QT8764.KQ5.9.Q75
+
+# Hand 2.16, page 32
+QJ5.853.J9532.T4
+
+# Hand 2.17, page 32
+QJ7542.K85.9832
+
+# Hand 2.18, page 33
+T86.KQ.T9852.984
+
+# Hand 2.19, page 34
+QT7642.QJ.J32.92
+
+# Hand 2.20, page 36
+QJ8.QJ.T872.J976
+
+# Hand 2.21, page 36
+KQ.KQ7.T7643.952
+
+# Hand 2.22, page 37
+Q4.J976.Q8.Q8743
+
+# Hand 2.23, page 37
+Q4.J976.A8.Q8743
+
+# Hand 2.24, page 38
+T.9765.T98.Q9853
+
+# Hand 2.25, page 38
+T974.Q.J9764.J53
+
+# Hand 2Q.1, page 39
+T98532.QJT2.A.T2
+
+# Hand 2Q.2, page 39
+KQ8.83.T932.8652
+
+# Hand 2Q.3, page 39
+Q742.AK4.T75.JT5
+
+# Hand 2Q.4, page 39
+J975.J53.K9.8732
+
+# Hand 2Q.5, page 39
+Q862.KQJ.T6.T984
+
+# Hand 2Q.6, page 39
+KQ83.KT832.J5.T2
+
+# Hand 2Q.7, page 39
+QJ7.KT7643.JT4.4
+
+# Hand 2Q.8, page 39
+AT874.KQ5.T62.94
+
+# Hand 2Q.9, page 39
+A.9762.JT7642.T4
+
+# Hand 2Q.10, page 39
+KQT8.QT972.T98.Q
+
+# Hand 2Q.11, page 39
+QJ.QT42.T72.QJ83
+
+# Hand 2Q.12, page 39
+JT4.KQ.9863.J742
